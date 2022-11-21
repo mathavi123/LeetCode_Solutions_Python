@@ -3,5 +3,5 @@
 
 | #     | Problems             |Solutions |Difficulty |
 | ------|:-------------------:|:-----------|:---------| 
-| 001     | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) |[#001](./001.md)|Easy|
+| 001     | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) |[#001](./Solutions/001.md)|Easy|
 
