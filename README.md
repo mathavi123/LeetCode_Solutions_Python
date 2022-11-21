@@ -1,6 +1,5 @@
 # LeetCode Solutions in Python
 
-## 1. Add two integer
 
 | #     | Problems             |Solutions |Difficulty |
 | ------|:-------------------:|:-----------|:---------| 
